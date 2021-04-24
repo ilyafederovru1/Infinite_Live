@@ -11,11 +11,11 @@ If you find a bug or something that shouldn't be like it is, create a new issue 
 
 ```
 repository
+    |.github
+        |ISSUE_TEMPLATE
     |images
         |"Aircraft ID"
             |"Livery ID.jpg"
-    |.github
-        |ISSUE_TEMPLATE
     |README.md
     |aircrafts.csv
 ```
