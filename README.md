@@ -9,13 +9,14 @@ If you find a bug or something that shouldn't be like it is, create a new issue 
 
 2. Add your picture to your repository. The specific folder format is as follows:
 
+```
 repository
     |images
         |"Aircraft ID"
             |"Livery ID.jpg"
     |README.md
     |aircrafts.csv
-    
+```
 Please check the aircrafts.csv file for specific aircraft id and livery id.
 
 3.Create a new pull request in your repository, and the base repository need to be Daniboi737/Infinite_Live. Please do not change the repository other than this proccess.
