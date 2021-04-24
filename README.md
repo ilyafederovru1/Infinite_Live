@@ -21,9 +21,9 @@ repository
 ```
 Please check the aircrafts.csv file for specific aircraft id and livery id.
 
-3.Create a new pull request in your repository, and the base repository need to be Daniboi737/Infinite_Live. Please do not change the repository other than this proccess.
+3. Create a new pull request in your repository, and the base repository need to be Daniboi737/Infinite_Live. Please do not change the repository other than this proccess.
 
-4.When the picture is approved, it will be added to our website
+4. When the picture is approved, it will be added to our website
 
 The picture requirements
 
