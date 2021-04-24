@@ -14,6 +14,8 @@ repository
     |images
         |"Aircraft ID"
             |"Livery ID.jpg"
+    |.github
+        |ISSUE_TEMPLATE
     |README.md
     |aircrafts.csv
 ```
