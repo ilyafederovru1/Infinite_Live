@@ -15,35 +15,35 @@ AircraftId,AircraftName,LiveryId,LiveryName
 982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,586f115e-af53-4e14-87a4-01691a495828,Airbus - New X
 982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,06cb64e7-eaa0-4137-8542-1c95ba116fe5,Infinite Flight - 2018 X
 982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,2ad3f632-b9ca-4510-b12f-3047be8383ef,ACJ Livery 5 X
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,91f88a09-33e4-40c8-98d7-aba1ddd53f5e,Generic
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,b670102a-ab45-4078-a300-ec76828322be,Air Berlin
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,eb2a5264-545f-474c-91a2-2e4b46665060,Northwest Airlines
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,06ea670c-e687-4602-9f8a-1fbd298c47f9,Air Canada
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,dfafc610-fbb5-45f3-8c50-c732bd59a9c9,Air China
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,e9b2f137-23ce-45f6-9d46-8d2328c2b347,Air France
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,08030201-6079-4380-80b4-1515e69de7c2,British Airways
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,ee772985-6f48-43cb-a7a6-fce78b58eabb,Brussels Airlines
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,a6c9ee9b-2ce6-493d-9490-18c77e6a8046,Delta Air Lines
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,61c64d54-c153-406a-9132-d91ce7c7eb2f,EasyJet
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,75b20706-c42f-4547-bf0e-cea29f872c3c,LAN
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,316f0a45-b77c-4ec7-a007-2b01e0c42a9b,Qatar Airways
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,ca63ebb5-875a-43fa-9c14-7c742fc17076,TigerAir
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,90da1e36-1102-4db7-b589-ee35ffa88820,S7
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,ad8472e4-2881-4160-a188-e382eae4d771,Tunisair
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,234cc680-63a9-4430-a441-224bdd90aa20,Volaris
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,daa23150-ef25-427e-8d76-6e8fa008c873,Cebu Pacific
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,bc9e7135-37d4-43f1-a435-9fa8ff6a6874,Air Canada Rouge
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,6d1982b3-36c6-406f-a5bc-2f6c5a581ba4,Croatia Airlines
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,c9a745c6-4b54-4b48-9ed2-c960bc19e520,Saudia
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,331b69b2-0951-48ee-8235-29bcbb6940de,SilkAir
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,0ccffb5e-1c03-46ff-8757-df3835a2b67c,Swiss
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,8a0a29ed-55b3-47eb-82c2-d1c30c5effe3,TAM
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,c4957753-e41b-492f-9f99-0d64be573957,Azerbaijan Airlines
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,9f43e353-f3f3-40a7-a0d4-e2f5302b596e,Eurowings
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,743b07cf-ecbd-44de-b153-d782bfe16999,Lufthansa
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,d0074d2e-3394-4775-91d2-7bd634aebdcd,LATAM
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,e2f386cb-b7b8-487e-aa7f-909bfe37eb28,TAP
-2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,8573e814-dcf4-490c-95d9-a092bf3e8365,SAS - Retro
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,91f88a09-33e4-40c8-98d7-aba1ddd53f5e,Generic X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,b670102a-ab45-4078-a300-ec76828322be,Air Berlin X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,eb2a5264-545f-474c-91a2-2e4b46665060,Northwest Airlines X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,06ea670c-e687-4602-9f8a-1fbd298c47f9,Air Canada X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,dfafc610-fbb5-45f3-8c50-c732bd59a9c9,Air China X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,e9b2f137-23ce-45f6-9d46-8d2328c2b347,Air France X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,08030201-6079-4380-80b4-1515e69de7c2,British Airways X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,ee772985-6f48-43cb-a7a6-fce78b58eabb,Brussels Airlines X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,a6c9ee9b-2ce6-493d-9490-18c77e6a8046,Delta Air Lines X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,61c64d54-c153-406a-9132-d91ce7c7eb2f,EasyJet X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,75b20706-c42f-4547-bf0e-cea29f872c3c,LAN X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,316f0a45-b77c-4ec7-a007-2b01e0c42a9b,Qatar Airways X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,ca63ebb5-875a-43fa-9c14-7c742fc17076,TigerAir X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,90da1e36-1102-4db7-b589-ee35ffa88820,S7 X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,ad8472e4-2881-4160-a188-e382eae4d771,Tunisair X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,234cc680-63a9-4430-a441-224bdd90aa20,Volaris X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,daa23150-ef25-427e-8d76-6e8fa008c873,Cebu Pacific X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,bc9e7135-37d4-43f1-a435-9fa8ff6a6874,Air Canada Rouge X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,6d1982b3-36c6-406f-a5bc-2f6c5a581ba4,Croatia Airlines X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,c9a745c6-4b54-4b48-9ed2-c960bc19e520,Saudia X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,331b69b2-0951-48ee-8235-29bcbb6940de,SilkAir X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,0ccffb5e-1c03-46ff-8757-df3835a2b67c,Swiss X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,8a0a29ed-55b3-47eb-82c2-d1c30c5effe3,TAM X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,c4957753-e41b-492f-9f99-0d64be573957,Azerbaijan Airlines X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,9f43e353-f3f3-40a7-a0d4-e2f5302b596e,Eurowings X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,743b07cf-ecbd-44de-b153-d782bfe16999,Lufthansa X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,d0074d2e-3394-4775-91d2-7bd634aebdcd,LATAM X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,e2f386cb-b7b8-487e-aa7f-909bfe37eb28,TAP X
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,8573e814-dcf4-490c-95d9-a092bf3e8365,SAS - Retro X
 a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,99430457-aa53-407e-adbc-bfba6fc30d2c,Generic
 a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,7fa8785a-ccb3-4448-86fe-b4c01cf0ffe1,Aeroflot
 a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,96a61185-ef51-4b64-ae32-437feb984504,Air Asia
