@@ -14,12 +14,12 @@ repository
     |.github
         |ISSUE_TEMPLATE
     |images
-        |"Aircraft ID"
+        |"Aircraft Name"
             |"Livery ID.jpg"
     |README.md
     |aircrafts.csv
 ```
-Please check the aircrafts.csv file for specific aircraft id and livery id.
+Please check the aircrafts.csv file for specific aircraft Name and livery id.
 
 3. Create a new pull request in your repository, and the base repository need to be Daniboi737/Infinite_Live. Please do not change the repository other than this proccess.
 
@@ -35,4 +35,4 @@ The picture requirements
 
 
 # IMPORTANT
-The picture name must be changed to “livery ID.jpg”. And it must be placed under the corresponding aircraft ID folder. If you can't find the right aircraft ID folder, you might need to create a folder for the picture as it might not exist yet.
+The picture name must be changed to “livery ID.jpg”. And it must be placed under the corresponding aircraft name folder. If you can't find the right aircraft Name folder, you might need to create a folder for the picture as it might not exist yet.
