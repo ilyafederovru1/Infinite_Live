@@ -1,4 +1,4 @@
-    {
+    [{
       "AircraftId": "a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3",
       "AircraftName": "Airbus A320",
       "LiveryId": "124af2c6-427f-4d51-bbdf-6c3f1e19cf60",
@@ -5331,4 +5331,4 @@
       "AircraftName": "Airbus A220-300",
       "LiveryId": "a821bc78-965c-4121-81d0-2d82bd6ebcd5",
       "LiveryName": "Generic"
-    }
+    }]
